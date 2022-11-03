@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">home_work_7</string>
+    <string name="Welcome">Добро Пожаловать</string>
+    <string name="Log_in">Зарегистрироваться</string>
+    <string name="autorization">Авторизируйтесь</string>
+    <string name="alredy_have_account">Есть аккаунт?</string>
+    <string name="forget_pass">Забыли пароль?</string>
+    <string name="registr">Зарегистрируйтесь</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter">Войдите</string>
+</resources>
